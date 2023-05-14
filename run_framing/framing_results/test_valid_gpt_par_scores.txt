@@ -1,0 +1,20 @@
+Test acc:	0.8798076923076923
+4 DDI types Test precision_mi:	0.5666666666666667	recall_mi	0.5483870967741935	f1score_mi	0.5573770491803278
+               precision    recall  f1-score   support
+
+            0       0.93      0.94      0.94       177
+   DDI-advise       0.56      0.82      0.67        11
+   DDI-effect       1.00      0.33      0.50         9
+      DDI-int       0.00      0.00      0.00         2
+DDI-mechanism       0.45      0.56      0.50         9
+
+     accuracy                           0.88       208
+    macro avg       0.59      0.53      0.52       208
+ weighted avg       0.89      0.88      0.87       208
+
+           pred:0  pred:eff  pred:mech  pred:adv  pred:int
+true:0        166         0          5         6         0
+true:eff        6         3          0         0         0
+true:mech       3         0          5         1         0
+true:adv        1         0          1         9         0
+true:int        2         0          0         0         0

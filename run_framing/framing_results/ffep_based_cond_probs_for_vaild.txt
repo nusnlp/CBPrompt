@@ -1,0 +1,8 @@
+FFEP_range	Count_wrong_ori	Count_wrong_ori_correct_paraphrase
+0.93-0.94	2	1
+0.94-0.95	3	2
+0.95-0.96	11	7
+0.96-0.97	24	20
+0.97-0.98	9	3
+0.98-0.99	14	9
+0.99-1.00	78	77

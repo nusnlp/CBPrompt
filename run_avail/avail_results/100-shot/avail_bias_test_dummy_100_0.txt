@@ -1,0 +1,1 @@
+{'0': 0.78, 'DDI-mechanism': 0.2, 'DDI-advise': 0.19, 'DDI-effect': 0.2, 'DDI-int': 0.19}
