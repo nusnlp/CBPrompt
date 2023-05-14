@@ -1,5 +1,4 @@
 # Mind the Biases: Quantifying Cognitive Biases in Language Model Prompting
--------------------------------------------
 
 This repository contains the datasets, code, and scripts to conduct the analysis in paper in [Lin and Ng (2023)](#reference).
 
