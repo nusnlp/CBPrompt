@@ -9,7 +9,7 @@ cd $ADAPET_ROOT
 
 # Train
 CUDA_VISIBLE_DEVICES=3 python $ADAPET_ROOT/cli.py \
-              -d $ADAPET_ROOT/data/ddi/framing/ori \
+              -d $ADAPET_ROOT/data/ddi/original/full_train \
               -p '([LBL]) [TEXT1]' \
               -v '{"0": "false", "DDI-effect": "effect", "DDI-mechanism":"mechanism", "DDI-advise": "advice", "DDI-int": "interaction"}' \
               -w "bert-base-uncased" \
