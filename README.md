@@ -32,7 +32,7 @@ Activate your environment,
 ```
 	source env/bin/activate
 ```
-For software, we build upon the open source code of [ADAPET (Tam et al., 2021)](https://aclanthology.org/2021.emnlp-main.407/) and added our data, scripts, and code for the experiments in this work.
+For software, we build upon the open source code of [ADAPET (Tam et al., 2021)](https://aclanthology.org/2021.emnlp-main.407/) and added our scripts and code for the experiments in this work. For the DDI dataset used in this work, we preprocess the DDIExtraction dataset (Segura-Bedmar et al., 2013) for our experiments, and the processed datasets can be found at ADAPET-CB/data/ddi.
 
 
 ## Run availability bias experiments
