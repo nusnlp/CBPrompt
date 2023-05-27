@@ -36,7 +36,7 @@ For software, we build upon the open source code of [ADAPET (Tam et al., 2021)](
 
 
 ## Run availability bias experiments
-Go to /your/home/CBPrompt/run_avail,
+Go to /your/home/CBPrompt/run_avail, copy ADAPET-CB to the current directory
 
 1. You can train your own models, for full training and few-shot training settings
 ```
@@ -55,7 +55,7 @@ If you want to create your own dummy test prompts on biomedical texts, functions
 
 
 #### Run framing effect experiments ####
-Go to /your/home/CBPrompt/run_framing,
+Go to /your/home/CBPrompt/run_framing, copy ADAPET-CB to the current directory
 
 1. Get the original and GPT-3 generated toned-down paraphrase datasets (including train, val, test sets) at
 
