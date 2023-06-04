@@ -12,6 +12,9 @@ TBD
 
 ```
 
+We release our [saved models](https://drive.google.com/file/d/1MdZ40PEadowlfotDf54wtKLgOMm57rla/view?usp=sharing)(prompt-based fine-tuned BERT models), which are used for measuring the availability bias scores and the framing effect paraphrase conditional probabilities.
+
+
 **Table of contents**
 
 [Prerequisites](#prerequisites)
