@@ -4,11 +4,18 @@ This repository contains the datasets, code, and scripts to conduct the analysis
 
 ## Reference
 Ruixi Lin and Hwee Tou Ng (2023). 
-[Mind the Biases: Quantifying Cognitive Biases in Language Model Prompting](https://TBD).  Proceedings of the Findings-ACL 2023. 
+[Mind the Biases: Quantifying Cognitive Biases in Language Model Prompting](https://aclanthology.org/2023.findings-acl.324/).  Proceedings of the Findings-ACL 2023. 
 
 Please cite: 
 ```
-TBD
+@inproceedings{lin-ng-2023-mind,
+    title = "Mind the Biases: Quantifying Cognitive Biases in Language Model Prompting",
+    author = "Lin, Ruixi  and Ng, Hwee Tou",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    year = "2023",
+    url = "https://aclanthology.org/2023.findings-acl.324",
+    pages = "5269--5281"
+}
 
 ```
 
